@@ -1,1 +1,5 @@
-node_modules\ndist\ndata\n.env.production\n*.tgz
+node_modules
+dist
+data
+.env.production
+*.tgz
